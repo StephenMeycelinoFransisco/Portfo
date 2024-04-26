@@ -16,8 +16,8 @@ const About = () => {
           <div className="mb-[3rem] flex items-center md:space-x-10">
             <span className="w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm"></span>
             <p className="text-[19px] text-slate-300 w-[80%]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptatem, atque!
+              I&apos;m an inquisitive person that enjoys learning new things and
+              finding solutions to existing situations.
             </p>
           </div>
           <button className="px-[2rem] hover:bg-blue-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black flex items-center space-x-2">
